@@ -21,7 +21,6 @@ This tutorial explains when and how to use Bridge in React Native.
 
 ## Usage
 
-- The app is used to:
 1. Set the status of bulb(ON/OFF) from native java code in Android
    Users can toggle the bulb and et the status from the Android-Native code
 2. Whenever the bulb is toggled, a native Toast Modal is shown.
@@ -29,6 +28,7 @@ This tutorial explains when and how to use Bridge in React Native.
 
 
 ## How To RUN in Development:
+
 1. Change gradle version in gradle-wrapper.properties
 2. Modify path of `sdk.dir` in local.properties of android folder
 3. Connect your Android Device/Emulator and allow USB Debugging in your device
