@@ -4,6 +4,8 @@
 
 This tutorial explains when and how to use Bridge in React Native.
 
+![appImg](https://user-images.githubusercontent.com/41267674/156927067-c508e523-d7f6-49e0-a894-c4b9f01c7efb.jpeg)
+
 ## Prerequisites
 
 - [Node.js > 12](https://nodejs.org) and npm (Recommended: Use [nvm](https://github.com/nvm-sh/nvm))
@@ -70,6 +72,5 @@ For more info please go to https://reactnative.dev/docs/signed-apk-android
 
 For more info please go to https://reactnative.dev/docs/publishing-to-app-store
 
-## Styleguide
-
-For coding styling, we decided to go with ESLint and [React Native community's styleguide](https://github.com/facebook/react-native/tree/master/packages/eslint-config-react-native-community#readme).
+![toggledOFF](https://user-images.githubusercontent.com/41267674/156927061-4bd08717-81ee-41f5-96e7-3b66da1d2c1c.jpeg)
+![toggledON](https://user-images.githubusercontent.com/41267674/156927064-e402a476-5e26-4876-867c-e1593b1fe720.jpeg)
